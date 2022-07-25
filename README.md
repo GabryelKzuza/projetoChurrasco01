@@ -1,7 +1,6 @@
 Projeto desenvolvido no curso do ProgBR
 ![imgreadme](https://user-images.githubusercontent.com/109525982/180812813-e4fbe1d2-aebc-4a4a-9f88-a071fe270b13.png)
 
-
 📋 Sobre o Projeto
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
